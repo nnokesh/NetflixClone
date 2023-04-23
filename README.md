@@ -8,10 +8,10 @@
 
 В проекте использовались следующие инструменты:
 
-Swift
-UIKit
-Xcode
-Core Data
-TMDB API
-Youtube API
-SDWebImage
++ Swift
++ UIKit
++ Xcode
++ Core Data
++ TMDB API
++ Youtube API
++ SDWebImage
