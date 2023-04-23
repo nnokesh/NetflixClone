@@ -17,7 +17,7 @@
 + SDWebImage
  
 ## 📷 Экраны:
-[![screen recorder]]([https://user-images.githubusercontent.com/126234899/233843252-3394f58b-bd9c-4fa4-859e-c26e43e14b2c.mp4])
+[![screen recorder]][https://user-images.githubusercontent.com/126234899/233843252-3394f58b-bd9c-4fa4-859e-c26e43e14b2c.mp4]
 
 
 
