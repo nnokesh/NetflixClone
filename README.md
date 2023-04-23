@@ -17,6 +17,7 @@
 + SDWebImage
  
 ## 📷 Экраны:
+[screen recorder](https://youtu.be/jOyirQu32zE)
 
 
 
