@@ -17,10 +17,7 @@
 + SDWebImage
  
 ## 📷 Экраны:
-![Simulator Screen Shot - iPhone 14 Pro - 2023-04-23 at 17 36 29](https://user-images.githubusercontent.com/126234899/233843421-ab4e0753-79f7-4976-acc7-fc6a7d1b4946.png)
-
-
-<img src="Simulator Screen Shot - iPhone 14 Pro - 2023-04-23 at 17 36 29" width="500">
+![скрин1](https://user-images.githubusercontent.com/126234899/233843825-b5b8eacd-02af-4c4c-a5ca-d807153c5978.jpg)
 
 
 
