@@ -17,7 +17,7 @@
 + SDWebImage
  
 ## 📷 Экраны:
-[![screen recorder](https://i.yapx.ru/V7RHQ.png)](https://youtu.be/jOyirQu32zE)
+[![screen recorder]](https://youtu.be/jOyirQu32zE)
 
 
 
