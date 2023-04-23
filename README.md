@@ -18,7 +18,7 @@
  
 ## 📷 Экраны:
 [![screen recorder]](https://youtu.be/jOyirQu32zE)
-
+https://user-images.githubusercontent.com/126234899/233843127-e04362d9-d431-4656-b035-f26f73bc7877.mp4
 
 
 
