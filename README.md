@@ -17,7 +17,7 @@
 + SDWebImage
  
 ## 📷 Экраны:
-![скрин1](https://user-images.githubusercontent.com/126234899/233843825-b5b8eacd-02af-4c4c-a5ca-d807153c5978.jpg)
+![скрин1](https://user-images.githubusercontent.com/126234899/233843917-f473ff4f-549e-45fc-9918-dc85f0679942.jpg)
 
 
 
