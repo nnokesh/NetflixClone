@@ -22,6 +22,9 @@
 ![скрин3](https://user-images.githubusercontent.com/126234899/233844207-f395cdb5-0f60-4018-86e5-17100e8ac9b0.jpg)
 ![скрин4](https://user-images.githubusercontent.com/126234899/233844533-99a12c53-0d37-4fa9-872a-96bf1faa978f.jpg)
 ![скрин5](https://user-images.githubusercontent.com/126234899/233896834-1c4ab2fc-e675-4927-8dda-06d58c572941.jpg)
+![скрин6](https://user-images.githubusercontent.com/126234899/233897103-b5f7cbfd-5027-4acc-80f3-5d24d3942ab0.jpg)
+![скрин7](https://user-images.githubusercontent.com/126234899/233897181-659176f0-ef5d-4ae0-a687-aed267ecd276.jpg)
+
 
 
 
