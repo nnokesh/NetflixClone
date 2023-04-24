@@ -11,6 +11,7 @@
 + Swift
 + UIKit
 + Xcode
++ MVVM
 + Core Data
 + TMDB API
 + Youtube API
